@@ -25,3 +25,6 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 ## Outcome:
 
 The total vine reviews of video games is 4,290 and the total vine reviews of software is 10,415. Although the number of records for video game (1,785,886 reviews) is higher than the number of records for software (341,913 reviews), the vine reviews of video games is lower than the vine reviews of software. 53.94 % of vine reivews for video game have no helpful vote and 48.53% of vine reviews for software have no helpful vote. This may indicate that there is a low confidence value from customers to trust the vine reviews. Moreover, around 70% of vines reviews (video game: 77%, software: 68%) have 4 or 5 star rating. There may be a tendency for vine reviews to give products high star rating. Therefore, the vine reviews may not be trustworthy.
+
+## Technology used:
+* Python, Spark, AWS, RDS, postgreSQL
